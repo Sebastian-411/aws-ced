@@ -1,0 +1,4 @@
+pgmpy
+flask
+experta
+flask-cors
